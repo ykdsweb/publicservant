@@ -3,9 +3,9 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>倉敷市周辺の公務員のお部屋探しはワイケイ</title>
-  <meta name="keywords" content="岡山,倉敷,公務員,賃貸,賃貸物件,移動,新生活,ひとり暮らし">
-  <meta name="description" content="ワイケイでは、公務員さんのお部屋探しをサポートします。急なお引っ越しにも親切・丁寧・スピーディーに対応します。是非、お気軽にご相談ください。">
+  <title>公務員のお部屋探しはワイケイ！倉敷市周辺の賃貸物件をご紹介します。</title>
+  <meta name="keywords" content="岡山県,岡山,倉敷市,倉敷,公務員,賃貸,賃貸物件,移動,新生活,ひとり暮らし">
+  <meta name="description" content="ワイケイでは、公務員さんのお部屋探しをサポートします。急なお引っ越しにも親切・丁寧・スピーディーに対応します。倉敷市周辺の賃貸物件情報は、ワイケイにお任せください。">
   <!-- Favicon -->
   <link rel="icon" type="image/png" href="img/favicon_koumuin_00.png">
   <!-- CSSの読み込み -->
@@ -66,15 +66,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="container">
 <div class="row">
     <div class="col span-12 header">
-        <h1><a href="https://www.chinsta.jp/"><img src="img/YK_1.jpg" width="120" height="" alt="YKロゴ" /></a></h1>
+        <h1><a href="https://www.chinsta.jp/"><img src="img/YK_1.jpg" width="120" height="auto" alt="倉敷市周辺の賃貸物件情報はワイケイにお任せください。" /></a></h1>
 		<div class="header-box"><a href="https://secure.es-ws.jp/inquiry.html?domain=www.chinsta.jp"><span class="contact-button">お問合せ</span></a></div>
         </div>
     </div>
 <div class="row">
     <div class="col span-12">
         <nav>
-        <div id="open"><img src="img/button.png"></div>
-        <div id="close"><img src="img/button2.png"></div>    
+        <div id="open"><img src="img/button.png" alt="" /></div>
+        <div id="close"><img src="img/button2.png" alt="" /></div>    
             <div id="navi">
         <ul>
             <!-- <li><a href="index.html">トップページ</a></li> -->
@@ -83,6 +83,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <li><a href="#3">お申し込みの流れ</a></li>
             <!-- <li><a href="#4">アクセス</a></li> -->
             <li><a href="#5">電話で問合せる</a></li>
+            <!-- <li><a href="#6">会社概要</a></li> -->
          </ul>
              </div>
         </nav>
@@ -122,7 +123,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <main>
 <section>
   <div class="catch">
-    <h2><span class="bold wf-roundedmplus1c">公務員さん応援キャンペーン2021開催中！！</span></h2>
+    <h2><span class="bold__00">倉敷市周辺の賃貸物件情報ならワイケイでOK</span></h2>
+    <br />
+    <h2><span class="bold__01 wf-roundedmplus1c">ただ今「公務員さん応援キャンペーン2021」開催中!!</span></h2>
     <a class="campaignBanner" href="https://www.chinsta.jp/list.html"><img src="img/SNS_campaign_01.png" width="500" alt="キャンペーンチケット" /></a>
     <h3>キャンペーン概要</h3>
     <p>ワイケイでは、公務員さんのお部屋探しをサポート致します。<br /><br />
@@ -134,7 +137,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   </div>
 </section>
 <section id="1" class="green_back">
-<h2 class="center"><span class="bold wf-roundedmplus1c">キャンペーンについて</span></h2>
+<h2 class="center"><span class="bold__01 wf-roundedmplus1c">キャンペーンについて</span></h2>
 <div class="container">
 <div class="row flow">
     <div class="col span-3">
@@ -162,7 +165,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </section>
 		
 <section id="2">
-        <h2 class="center"><span class="bold wf-roundedmplus1c">弊社が選ばれる理由</span></h2>
+        <h2 class="center"><span class="bold__01 wf-roundedmplus1c">弊社が選ばれる理由</span></h2>
 <div class="container center">
 <div class="row">
     <div class="col span-4">
@@ -185,7 +188,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </section>
 		
 <section id="3" class="green_back">
-        <h2 class="center"><span class="bold wf-roundedmplus1c">お申し込みの流れ</span></h2>
+        <h2 class="center"><span class="bold__01 wf-roundedmplus1c">お申し込みの流れ</span></h2>
 <div class="container">
 <div class="row flow">
     <div class="col span-3">
@@ -223,7 +226,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </section> -->
 
 <section id="5">
-<h2 class="center"><span class="bold wf-roundedmplus1c">お問合せ</span></h2>
+<h2 class="center"><span class="bold__01 wf-roundedmplus1c">お問合せ</span></h2>
 <div class="container">
 <!-- <div class="row"> -->
 
@@ -286,9 +289,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	</div>
 	</div>
 </section>
+
 <section>
   <div class="catch">
-    <h2><span class="bold wf-roundedmplus1c">公務員さん応援キャンペーン2021開催中！！</span></h2>
+    <h2><span class="bold__01 wf-roundedmplus1c">公務員さん応援キャンペーン2021開催中！！</span></h2>
     <a class="campaignBanner" href="https://www.chinsta.jp/list.html"><img src="img/SNS_campaign_01.png" width="500" alt="キャンペーンチケット" /></a>
     <h3>キャンペーン概要</h3>
     <p>ワイケイでは、公務員さんのお部屋探しをサポート致します。<br /><br />
@@ -298,11 +302,32 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     ・こちらのページ、又はSNSのチケットをご提示いただくと仲介手数料が10％OFFになります。<br /><br />
     是非、お気軽にご相談ください。</p>
   </div>
-</section>        
+</section>
+<!-- <section id="6" class="green_back">
+          <h2 class="center"><span class="bold__01 wf-roundedmplus1c">会社概要</span></h2>
+  <div class="container center">
+  <div class="row">
+      <div class="col span-4">
+      <img src="img/YK_2.jpg" alt="会社概要00">
+      <h3>コーポレートサイトはこちら</h3>
+      </div>
+      <div class="col span-4">
+      <img src="img/okayama_map_00.png" alt="会社概要01">
+      <h3>タイトル</h3>
+      </div>
+      <div class="col span-4">
+      <img src="img/female_02.jpeg" alt="会社概要02">
+      <h3>タイトル</h3>
+      </div>
+      </div>
+    </div>
+</section> -->
 </main>
-    <footer>
+
+<footer>
+<section>
 <div class="container">
-<h2 class="center"><span class="bold wf-roundedmplus1c">キャンペーン対象店舗</span></h2>
+<h2 class="center"><span class="bold__01 wf-roundedmplus1c">キャンペーン対象店舗</span></h2>
   <div class="row">
     <div class="col span-4">
     <h4>倉敷沖新店</h4><br />
@@ -330,7 +355,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </div>
   </div>
 </div>
-    </footer>
+</section>
+</footer>
     <div class="copyright">
     <a href="https://www.chinsta.jp/" rel="noreferrer noopener" target="_blank">Copyright © YKG Horldings</a> 
         </div>
